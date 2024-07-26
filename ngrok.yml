@@ -1,0 +1,8 @@
+tunnels:
+  flask_app:
+    addr: 5000
+    proto: http
+    hostname: amusing-beagle-singular.ngrok-free.app
+
+    #  ngrok http 5000 --domain=amusing-beagle-singular.ngrok-free.app
+
